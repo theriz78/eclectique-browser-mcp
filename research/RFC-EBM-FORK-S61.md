@@ -48,7 +48,7 @@ sources: 11
 
 ## Section 7 — Open Questions to User
 
-À résoudre avant commit Option A vs hybride. Format A/B/C numéroté (Règle 1).
+À résoudre avant commit Option A vs hybride. Format A/B/C numéroté (Doctrine 1).
 
 ### Q1 — Horizon temps EBM
 

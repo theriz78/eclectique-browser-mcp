@@ -135,7 +135,7 @@ async function to_figma_live(bundle: FigmaDocument, opts) {
 
 ---
 
-## 5. Open Questions (A/B/C — REGLE #1)
+## 5. Open Questions (A/B/C — DOCTRINE #1)
 
 ### Q1 — File granularity
 Une site capture = un fichier OR une page dans fichier partagé ?

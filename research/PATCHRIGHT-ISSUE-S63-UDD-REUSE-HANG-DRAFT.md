@@ -80,7 +80,7 @@ Happy to provide additional logs / strace output / reduced repro if useful.
 
 ## Notes for filing (S63 internal)
 
-- File **after** Thierry approval (REGLE #1 V2.3 + visible-to-others gating).
+- File **after** Thierry approval (DOCTRINE #1 V2.3 + visible-to-others gating).
 - After filing, link the issue # in this draft + the S63 handoff Caveats section.
 - Cross-link probe scripts that demonstrate the hang :
   - `test/probe-patchright-caveats-s63.ts` (variants A-G)
